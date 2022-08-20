@@ -112,7 +112,6 @@
         "test": "bundle exec rspec -t browser"
       },
       "addons": [
-        "heroku-redis",
         "heroku-postgresql"
       ],
       "buildpacks": [
